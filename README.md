@@ -132,7 +132,7 @@ This project is open-source and free to use for educational and personal project
 
 ## 🤝 Credits
 
-Created by [Your Name]  
+Created by Baskaran P  
 Built using Arduino, ESP32, and Blynk IoT Platform.
 
 ---
